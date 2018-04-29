@@ -7,6 +7,9 @@ We have experimented with a CNN model on MNIST dataset and LSTM model on tweets.
 # Dependencies
 * Keras Contrib: https://github.com/keras-team/keras-contrib
 
+# Data
+https://drive.google.com/drive/folders/1P7qR5Nq4ll3AXqueQ-ta_o3bJMS3jnDj?usp=sharing
+
 # To run:
 
 # Reference:
