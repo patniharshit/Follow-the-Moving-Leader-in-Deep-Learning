@@ -4,14 +4,14 @@ FTML is closely related to RMSprop and Adam. In particular, it enjoys their nice
 
 We have experimented with a CNN model on MNIST dataset and LSTM model on tweets.
 
-# Dependencies
+## Dependencies
 * Keras Contrib: https://github.com/keras-team/keras-contrib
 
-# Data
+## Data
 https://drive.google.com/drive/folders/1P7qR5Nq4ll3AXqueQ-ta_o3bJMS3jnDj?usp=sharing
 
-# To run:
+## To run:
 
-# Reference:
+## Reference:
 * Follow the Moving Leader in Deep Learning, Shuai Zheng, James T. Kwok
 http://proceedings.mlr.press/v70/zheng17a/zheng17a.pdf
