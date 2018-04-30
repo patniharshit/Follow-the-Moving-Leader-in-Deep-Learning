@@ -13,10 +13,8 @@ We have experimented with a CNN model on MNIST dataset and LSTM model on tweets 
 ## Data
 https://drive.google.com/drive/folders/1P7qR5Nq4ll3AXqueQ-ta_o3bJMS3jnDj?usp=sharing
 
-## To run:
+## To run cnn.py:
 Download data from above drive link and data folder under the name input.
-
-To run cnn.py:
 python3 code/cnn.py
 
 ## To run lstm.py:
