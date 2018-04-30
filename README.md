@@ -25,3 +25,9 @@ python lstm/code/lstm.py [number of epochs]
 ## Reference:
 * Follow the Moving Leader in Deep Learning, Shuai Zheng, James T. Kwok
 http://proceedings.mlr.press/v70/zheng17a/zheng17a.pdf
+
+## Team Members:
+* Yash Verma        (201501103)
+* Harshit  Patni    (201501107)
+* Aayush Surana     (201531012)
+* Lakshya  Agrawal  (201530102)
