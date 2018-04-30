@@ -19,8 +19,9 @@ Download data from above drive link and data folder under the name input.
 To run cnn.py:
 python3 code/cnn.py
 
+## To run lstm.py:
 Download lstm folder which contains all the data and code for lstm model.
-To run lstm.py
+
 python lstm/code/lstm.py [number of epochs]
 
 ## Reference:
